@@ -1,0 +1,36 @@
+# Dataset mentah & audio input besar (JANGAN commit ke GitHub sesuai Panduan Umum 5.5)
+data/clean/
+data/noisy/
+data/clean_48k/
+data/noisy_48k/
+data/cleanbackup/
+data/noisybackup/
+data/raw_in/
+data/*.zip
+data/demo_qlive_24s.wav
+
+# Paket sementara & hasil antara PC
+colab_pesq_kit.zip
+results/Q-DIG_raw/
+results/Q15_PC/
+results/Q15_ID/
+
+# Build artifacts PC & CCS 6.2
+c_sim_pc/*.exe
+*.exe
+*.obj
+*.out
+*.d
+*_linkInfo.xml
+ccs/*/Debug/
+ccs/*/Release/
+ccs/*/.metadata/
+ccs/*/dvt/
+ccs/*/RemoteSystemsTempFiles/
+
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+~$*.xlsx
