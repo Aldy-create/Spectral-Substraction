@@ -6,6 +6,8 @@ data/noisy_48k/
 data/cleanbackup/
 data/noisybackup/
 data/raw_in/
+data/val_clean/
+data/val_noisy/
 data/*.zip
 data/demo_qlive_24s.wav
 
@@ -27,6 +29,8 @@ ccs/*/Release/
 ccs/*/.metadata/
 ccs/*/dvt/
 ccs/*/RemoteSystemsTempFiles/
+.metadata/
+RemoteSystemsTempFiles/
 
 # Python / OS
 __pycache__/

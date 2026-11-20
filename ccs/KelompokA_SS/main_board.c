@@ -38,8 +38,8 @@
 #define QDIG_BATCH      1               /* 1 = proses otomatis 30 klip         */
 #define QDIG_NCLIPS     30
 
-#define QDIG_IN_DIR     "C:/Aldy Project/Spectral Substraction/dsp_kelompok_a/data/raw_in"
-#define QDIG_OUT_DIR    "C:/Aldy Project/Spectral Substraction/dsp_kelompok_a/results/Q-DIG_raw"
+#define QDIG_IN_DIR     "D:/Spectral/data/raw_in"
+#define QDIG_OUT_DIR    "D:/Spectral/results/Q-DIG_raw"
 #define QDIG_IN_FILE    "clip_in.raw"
 #define QDIG_OUT_FILE   "clip_out.raw"
 /* ======================================================================= */
